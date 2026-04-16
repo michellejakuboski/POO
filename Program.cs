@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing;
+//para usar as duas bibliotecas tem que baixar as referencias
 
 namespace POO
 {

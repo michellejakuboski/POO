@@ -63,5 +63,9 @@
       <DependentUpon>ApresentacaoForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="img1\conangray.jpg" />
+    <Content Include="img1\jaodivo.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
